@@ -3,6 +3,7 @@ log all your downloads via gmodstores file string replacement
 
 ## I never intended for public use so code is really messy
 ## do not recommend using this in production servers
+## you're free to use but it'd be cool to know who is using it so let me know!
 
 # Usage:
 in your gmod Client lua code include
